@@ -7,7 +7,9 @@ This homework is due on ***Friday, November 20th at 11:59 PM EST***.
 > This means that if your original grade would've been an 80%, you would get a 40%, and so on so forth.
 
 ## Submission Instructions
-Please follow these exact submission instructions. Failure to follow these instructions will result in a 15 point deduction.
+Please follow these exact submission instructions. 
+
+**Failure to follow these instructions will result in a 20 point deduction.**
 
 1. You must submit your R file and a PDF with a link to your Github repository, which must be public.
 1. The PDF should be called `FirstNameLastName_Homework3.pdf`.
