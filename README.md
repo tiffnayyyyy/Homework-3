@@ -68,3 +68,8 @@ a. Create a data frame called `recent_cases` which represents the confirmed numb
 
 b. Show the `recent_cases` data in a line graph, with the dates being on the x-axis and number of confirmed cases on the y-axis. - 25 points
 
+### Extra Credit Opportunity (10 points)
+Use ggplot2 to make the graphs beautiful. Change the colors, add interesting fonts, etc.
+
+Describe in a comment each of the things you added to the graph. Each thing must be described in order to earn extra credit.
+Each interesting item added to a graph will result in 1 extra credit point for a maximum of 10 points.
